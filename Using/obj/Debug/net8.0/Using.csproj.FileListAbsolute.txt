@@ -1,0 +1,14 @@
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Using\bin\Debug\net8.0\Using.exe
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Using\bin\Debug\net8.0\Using.deps.json
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Using\bin\Debug\net8.0\Using.runtimeconfig.json
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Using\bin\Debug\net8.0\Using.dll
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Using\bin\Debug\net8.0\Using.pdb
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Using\obj\Debug\net8.0\Using.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Using\obj\Debug\net8.0\Using.AssemblyInfoInputs.cache
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Using\obj\Debug\net8.0\Using.AssemblyInfo.cs
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Using\obj\Debug\net8.0\Using.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Using\obj\Debug\net8.0\Using.dll
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Using\obj\Debug\net8.0\refint\Using.dll
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Using\obj\Debug\net8.0\Using.pdb
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Using\obj\Debug\net8.0\Using.genruntimeconfig.cache
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Using\obj\Debug\net8.0\ref\Using.dll

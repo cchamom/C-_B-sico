@@ -1,0 +1,14 @@
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Entrada y Salida\bin\Debug\net8.0\Entrada y Salida.exe
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Entrada y Salida\bin\Debug\net8.0\Entrada y Salida.deps.json
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Entrada y Salida\bin\Debug\net8.0\Entrada y Salida.runtimeconfig.json
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Entrada y Salida\bin\Debug\net8.0\Entrada y Salida.dll
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Entrada y Salida\bin\Debug\net8.0\Entrada y Salida.pdb
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Entrada y Salida\obj\Debug\net8.0\Entrada y Salida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Entrada y Salida\obj\Debug\net8.0\Entrada y Salida.AssemblyInfoInputs.cache
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Entrada y Salida\obj\Debug\net8.0\Entrada y Salida.AssemblyInfo.cs
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Entrada y Salida\obj\Debug\net8.0\Entrada y Salida.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Entrada y Salida\obj\Debug\net8.0\Entrada y Salida.dll
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Entrada y Salida\obj\Debug\net8.0\refint\Entrada y Salida.dll
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Entrada y Salida\obj\Debug\net8.0\Entrada y Salida.pdb
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Entrada y Salida\obj\Debug\net8.0\Entrada y Salida.genruntimeconfig.cache
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Entrada y Salida\obj\Debug\net8.0\ref\Entrada y Salida.dll

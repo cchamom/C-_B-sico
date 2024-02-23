@@ -1,0 +1,14 @@
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\C# Basico\bin\Debug\net8.0\C# Basico.exe
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\C# Basico\bin\Debug\net8.0\C# Basico.deps.json
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\C# Basico\bin\Debug\net8.0\C# Basico.runtimeconfig.json
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\C# Basico\bin\Debug\net8.0\C# Basico.dll
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\C# Basico\bin\Debug\net8.0\C# Basico.pdb
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\C# Basico\obj\Debug\net8.0\C# Basico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\C# Basico\obj\Debug\net8.0\C# Basico.AssemblyInfoInputs.cache
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\C# Basico\obj\Debug\net8.0\C# Basico.AssemblyInfo.cs
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\C# Basico\obj\Debug\net8.0\C# Basico.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\C# Basico\obj\Debug\net8.0\C# Basico.dll
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\C# Basico\obj\Debug\net8.0\refint\C# Basico.dll
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\C# Basico\obj\Debug\net8.0\C# Basico.pdb
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\C# Basico\obj\Debug\net8.0\C# Basico.genruntimeconfig.cache
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\C# Basico\obj\Debug\net8.0\ref\C# Basico.dll

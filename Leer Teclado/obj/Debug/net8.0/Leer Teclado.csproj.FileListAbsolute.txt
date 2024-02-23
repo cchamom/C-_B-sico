@@ -1,0 +1,14 @@
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Leer Teclado\bin\Debug\net8.0\Leer Teclado.exe
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Leer Teclado\bin\Debug\net8.0\Leer Teclado.deps.json
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Leer Teclado\bin\Debug\net8.0\Leer Teclado.runtimeconfig.json
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Leer Teclado\bin\Debug\net8.0\Leer Teclado.dll
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Leer Teclado\bin\Debug\net8.0\Leer Teclado.pdb
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Leer Teclado\obj\Debug\net8.0\Leer Teclado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Leer Teclado\obj\Debug\net8.0\Leer Teclado.AssemblyInfoInputs.cache
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Leer Teclado\obj\Debug\net8.0\Leer Teclado.AssemblyInfo.cs
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Leer Teclado\obj\Debug\net8.0\Leer Teclado.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Leer Teclado\obj\Debug\net8.0\Leer Teclado.dll
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Leer Teclado\obj\Debug\net8.0\refint\Leer Teclado.dll
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Leer Teclado\obj\Debug\net8.0\Leer Teclado.pdb
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Leer Teclado\obj\Debug\net8.0\Leer Teclado.genruntimeconfig.cache
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Leer Teclado\obj\Debug\net8.0\ref\Leer Teclado.dll

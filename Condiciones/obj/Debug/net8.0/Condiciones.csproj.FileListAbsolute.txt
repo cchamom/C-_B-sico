@@ -1,0 +1,14 @@
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Condiciones\bin\Debug\net8.0\Condiciones.exe
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Condiciones\bin\Debug\net8.0\Condiciones.deps.json
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Condiciones\bin\Debug\net8.0\Condiciones.runtimeconfig.json
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Condiciones\bin\Debug\net8.0\Condiciones.dll
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Condiciones\bin\Debug\net8.0\Condiciones.pdb
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Condiciones\obj\Debug\net8.0\Condiciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Condiciones\obj\Debug\net8.0\Condiciones.AssemblyInfoInputs.cache
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Condiciones\obj\Debug\net8.0\Condiciones.AssemblyInfo.cs
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Condiciones\obj\Debug\net8.0\Condiciones.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Condiciones\obj\Debug\net8.0\Condiciones.dll
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Condiciones\obj\Debug\net8.0\refint\Condiciones.dll
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Condiciones\obj\Debug\net8.0\Condiciones.pdb
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Condiciones\obj\Debug\net8.0\Condiciones.genruntimeconfig.cache
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Condiciones\obj\Debug\net8.0\ref\Condiciones.dll

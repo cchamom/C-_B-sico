@@ -1,0 +1,14 @@
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Tipos de datos\bin\Debug\net8.0\Tipos de datos.exe
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Tipos de datos\bin\Debug\net8.0\Tipos de datos.deps.json
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Tipos de datos\bin\Debug\net8.0\Tipos de datos.runtimeconfig.json
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Tipos de datos\bin\Debug\net8.0\Tipos de datos.dll
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Tipos de datos\bin\Debug\net8.0\Tipos de datos.pdb
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Tipos de datos\obj\Debug\net8.0\Tipos de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Tipos de datos\obj\Debug\net8.0\Tipos de datos.AssemblyInfoInputs.cache
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Tipos de datos\obj\Debug\net8.0\Tipos de datos.AssemblyInfo.cs
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Tipos de datos\obj\Debug\net8.0\Tipos de datos.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Tipos de datos\obj\Debug\net8.0\Tipos de datos.dll
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Tipos de datos\obj\Debug\net8.0\refint\Tipos de datos.dll
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Tipos de datos\obj\Debug\net8.0\Tipos de datos.pdb
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Tipos de datos\obj\Debug\net8.0\Tipos de datos.genruntimeconfig.cache
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Tipos de datos\obj\Debug\net8.0\ref\Tipos de datos.dll
